@@ -1,5 +1,6 @@
-// IMIE NAZWISKO - NR ALBUMU - GRUPA LAB DO KTOREJ NALEZE - GRUPA LAB NA KTOREJ JESTEM NA ZAJECIACH
-// (przyklad) Iga Swiatek - 101020 - lab2/FED - lab4/FED
+// 
+
+
 
 using System;
 using System.Collections.Generic;
